@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	logging "github.com/codemodify/systemkit-logging"
-	encoders "github.com/codemodify/systemkit-service-encoders-systemv"
-	spec "github.com/codemodify/systemkit-service-spec"
-	"github.com/codemodify/systemkit-service/helpers"
+	logging "github.com/remoteit/systemkit-logging"
+	encoders "github.com/remoteit/systemkit-service-encoders-systemv"
+	spec "github.com/remoteit/systemkit-service-spec"
+	"github.com/remoteit/systemkit-service/helpers"
 )
 
 var logTagSystemV = "SystemV-SERVICE"

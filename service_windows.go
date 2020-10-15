@@ -11,9 +11,9 @@ import (
 	"golang.org/x/sys/windows/svc"
 	svcMgr "golang.org/x/sys/windows/svc/mgr"
 
-	logging "github.com/codemodify/systemkit-logging"
-	spec "github.com/codemodify/systemkit-service-spec"
-	"github.com/codemodify/systemkit-service/helpers"
+	logging "github.com/remoteit/systemkit-logging"
+	spec "github.com/remoteit/systemkit-service-spec"
+	"github.com/remoteit/systemkit-service/helpers"
 )
 
 var logTag = "Windows-SERVICE"

@@ -8,10 +8,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	logging "github.com/codemodify/systemkit-logging"
-	encoders "github.com/codemodify/systemkit-service-encoders-rc_d"
-	spec "github.com/codemodify/systemkit-service-spec"
-	"github.com/codemodify/systemkit-service/helpers"
+	logging "github.com/remoteit/systemkit-logging"
+	encoders "github.com/remoteit/systemkit-service-encoders-rc_d"
+	spec "github.com/remoteit/systemkit-service-spec"
+	"github.com/remoteit/systemkit-service/helpers"
 )
 
 var logTagRCD = "rc.d-SERVICE"

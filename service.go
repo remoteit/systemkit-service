@@ -1,7 +1,7 @@
 package service
 
 import (
-	spec "github.com/codemodify/systemkit-service-spec"
+	spec "github.com/remoteit/systemkit-service-spec"
 )
 
 // Installer - installs and removes a service

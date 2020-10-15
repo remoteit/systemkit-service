@@ -8,8 +8,8 @@ import (
 
 	"golang.org/x/sys/windows/svc"
 
-	logging "github.com/codemodify/systemkit-logging"
-	spec "github.com/codemodify/systemkit-service-spec"
+	logging "github.com/remoteit/systemkit-logging"
+	spec "github.com/remoteit/systemkit-service-spec"
 )
 
 // WindowsServiceQueryHandler -
